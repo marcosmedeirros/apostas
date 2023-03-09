@@ -1,0 +1,14 @@
+.body{
+    font-family: 'Cormorant SC', serif;
+    font-family: 'Roboto Mono', monospace;
+    background-color: black;
+}
+.nav-link{
+    color: white;
+}
+
+.myBackground {
+    background-image: url(https://i.imgflip.com/2/34c2k2.jpg);
+    color: white
+}
+
